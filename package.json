@@ -1,0 +1,26 @@
+{
+  "name": "blender-collection",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feng-zhua/Collection-Bot-Discord.git"
+  },
+  "author": "xq-ren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/feng-zhua/Collection-Bot-Discord/issues"
+  },
+  "homepage": "https://github.com/feng-zhua/Collection-Bot-Discord#readme",
+  "description": "",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.0.1",
+    "nodemon" : "^3.1.0"
+
+  }
+  
+}
